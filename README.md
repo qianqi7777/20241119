@@ -15,6 +15,11 @@
 
 ***
 
+### 引用
+> 一级引用
+>> 二级引用
+>>> 三级引用
+
 ### 列表
 *物理学（无序列表)
 	*凝聚态物理
@@ -26,10 +31,39 @@
 	1.三角洲行动
 	2.CSGO
 	3. APEX
-	4.吴畏契约
+	4.无畏契约
 
 ### 超链接
 [B站](https://www.bilibili.com "点击进入")
 
 ### 图片链接
 ![1.png](https://youke1.picui.cn/s1/2025/11/28/692995c1a82ff.png)
+
+### 插入代码块
+```c
+	#include <stdio.h>
+	int main(void)
+	{
+		//test a code
+	}
+```
+
+```cpp
+	#include <iostream>
+	int main(void)
+	{      
+		//test a code
+	}
+```
+
+```java
+	public class HelloWorld {
+   		 public static void main(String[] args) {
+        	System.out.println("Hello World");
+    	}
+	}
+```
+
+```python
+	print("hello world")
+```
