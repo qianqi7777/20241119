@@ -32,4 +32,4 @@
 [B站](https://www.bilibili.com "点击进入")
 
 ### 图片链接
-[图片](C://Users//asus//Desktop//1.png)
+![1.png](https://youke1.picui.cn/s1/2025/11/28/692995c1a82ff.png)
